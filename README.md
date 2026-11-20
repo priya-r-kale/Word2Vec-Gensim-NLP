@@ -65,6 +65,3 @@ Word2Vec-Embeddings-Analysis/
 
 This project illustrates the power of word embeddings in modern Natural Language Processing. By transforming words into high-dimensional numerical vectors, machine learning models can understand contextual relationships, semantic similarity, and word analogies.
 
-## Author
-
-Priya Kale
